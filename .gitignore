@@ -4,6 +4,7 @@ hybris/bin/**/bin
 gensrc
  
 # Folders to ignore at the root of the repository
+.idea/
 log/
 temp/
 data/
