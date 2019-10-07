@@ -1,0 +1,9 @@
+#Ant properties
+#Wed Jul 31 14:07:30 CEST 2019
+builddate=20190731 1405
+description=myProductsinitialdata
+name=myProductsinitialdata
+releasedate=20181129 1417
+vendor=hybris
+version=1811.10
+version.api=1811

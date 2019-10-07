@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module descriptorType="OOTB" importedAsReadOnly="true" type="JAVA_MODULE" version="4">
+  <component name="FacetManager">
+    <facet type="Spring" name="Spring">
+      <configuration process_explicitly_annotated="false">
+        <fileset id="personalizationpromotionswebspring" name="personalizationpromotionswebspring" removed="false">
+          <dependency>platformspring==platform</dependency>
+          <dependency>personalizationwebservicesspring==personalizationwebservices</dependency>
+          <dependency>personalizationpromotionsspring==personalizationpromotions</dependency>
+          <file>file://$MODULE_DIR$/../bin/ext-webservices/personalizationpromotionsweb/project.properties</file>
+          <file>file://$MODULE_DIR$/../bin/ext-webservices/personalizationpromotionsweb/resources/personalizationpromotionsweb-spring.xml</file>
+        </fileset>
+      </configuration>
+    </facet>
+  </component>
+  <component name="NewModuleRootManager">
+    <output url="file://$MODULE_DIR$/../bin/ext-webservices/personalizationpromotionsweb/eclipsebin" />
+    <output-test url="file://$MODULE_DIR$/../bin/ext-webservices/personalizationpromotionsweb/eclipsebin" />
+    <exclude-output />
+    <javadoc-paths>
+      <root url="https://download.hybris.com/api/1811/commercesuite" />
+    </javadoc-paths>
+    <content url="file://$MODULE_DIR$/../bin/ext-webservices/personalizationpromotionsweb">
+      <sourceFolder url="file://$MODULE_DIR$/../bin/ext-webservices/personalizationpromotionsweb/resources" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/ext-webservices/personalizationpromotionsweb/commonweb/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/ext-webservices/personalizationpromotionsweb/commonweb/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/ext-webservices/personalizationpromotionsweb/commonweb/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/ext-webservices/personalizationpromotionsweb/commonweb/groovytestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/ext-webservices/personalizationpromotionsweb/acceleratoraddon/web/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/ext-webservices/personalizationpromotionsweb/acceleratoraddon/web/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/ext-webservices/personalizationpromotionsweb/acceleratoraddon/web/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/ext-webservices/personalizationpromotionsweb/acceleratoraddon/web/groovytestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/ext-webservices/personalizationpromotionsweb/backoffice/resources" type="java-resource" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/ext-webservices/personalizationpromotionsweb/.externalToolBuilders" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/ext-webservices/personalizationpromotionsweb/.settings" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/ext-webservices/personalizationpromotionsweb/acceleratoraddon/web/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/ext-webservices/personalizationpromotionsweb/acceleratoraddon/web/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/ext-webservices/personalizationpromotionsweb/acceleratoraddon/web/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/ext-webservices/personalizationpromotionsweb/backoffice/classes" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/ext-webservices/personalizationpromotionsweb/bower_components" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/ext-webservices/personalizationpromotionsweb/classes" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/ext-webservices/personalizationpromotionsweb/commonweb/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/ext-webservices/personalizationpromotionsweb/commonweb/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/ext-webservices/personalizationpromotionsweb/commonweb/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/ext-webservices/personalizationpromotionsweb/eclipsebin" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/ext-webservices/personalizationpromotionsweb/jsTarget" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/ext-webservices/personalizationpromotionsweb/node_modules" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/ext-webservices/personalizationpromotionsweb/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/ext-webservices/personalizationpromotionsweb/web/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/ext-webservices/personalizationpromotionsweb/web/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/ext-webservices/personalizationpromotionsweb/web/testclasses" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../bin/ext-webservices/personalizationpromotionsweb/resources" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/../bin/ext-webservices/personalizationpromotionsweb/bin/personalizationpromotionswebserver.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module" module-name="platform" exported="" />
+    <orderEntry type="module" module-name="personalizationwebservices" exported="" />
+    <orderEntry type="module" module-name="personalizationpromotions" exported="" />
+  </component>
+</module>

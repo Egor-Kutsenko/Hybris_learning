@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module descriptorType="OOTB" importedAsReadOnly="true" type="JAVA_MODULE" version="4">
+  <component name="FacetManager">
+    <facet type="Spring" name="Spring">
+      <configuration process_explicitly_annotated="false">
+        <fileset id="kymaintegrationsampledataspring" name="kymaintegrationsampledataspring" removed="false">
+          <dependency>platformspring==platform</dependency>
+          <dependency>commerceservicesspring==commerceservices</dependency>
+          <dependency>kymaintegrationservicesspring==kymaintegrationservices</dependency>
+          <file>file://$MODULE_DIR$/../bin/ext-data/kymaintegrationsampledata/project.properties</file>
+          <file>file://$MODULE_DIR$/../bin/ext-data/kymaintegrationsampledata/resources/kymaintegrationsampledata-spring.xml</file>
+        </fileset>
+      </configuration>
+    </facet>
+  </component>
+  <component name="NewModuleRootManager">
+    <output url="file://$MODULE_DIR$/../bin/ext-data/kymaintegrationsampledata/eclipsebin" />
+    <output-test url="file://$MODULE_DIR$/../bin/ext-data/kymaintegrationsampledata/eclipsebin" />
+    <exclude-output />
+    <javadoc-paths>
+      <root url="https://download.hybris.com/api/1811/commercesuite" />
+    </javadoc-paths>
+    <content url="file://$MODULE_DIR$/../bin/ext-data/kymaintegrationsampledata">
+      <sourceFolder url="file://$MODULE_DIR$/../bin/ext-data/kymaintegrationsampledata/resources" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/ext-data/kymaintegrationsampledata/commonweb/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/ext-data/kymaintegrationsampledata/commonweb/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/ext-data/kymaintegrationsampledata/commonweb/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/ext-data/kymaintegrationsampledata/commonweb/groovytestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/ext-data/kymaintegrationsampledata/acceleratoraddon/web/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/ext-data/kymaintegrationsampledata/acceleratoraddon/web/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/ext-data/kymaintegrationsampledata/acceleratoraddon/web/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/ext-data/kymaintegrationsampledata/acceleratoraddon/web/groovytestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/ext-data/kymaintegrationsampledata/backoffice/resources" type="java-resource" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/ext-data/kymaintegrationsampledata/.externalToolBuilders" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/ext-data/kymaintegrationsampledata/.settings" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/ext-data/kymaintegrationsampledata/acceleratoraddon/web/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/ext-data/kymaintegrationsampledata/acceleratoraddon/web/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/ext-data/kymaintegrationsampledata/acceleratoraddon/web/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/ext-data/kymaintegrationsampledata/backoffice/classes" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/ext-data/kymaintegrationsampledata/bower_components" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/ext-data/kymaintegrationsampledata/classes" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/ext-data/kymaintegrationsampledata/commonweb/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/ext-data/kymaintegrationsampledata/commonweb/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/ext-data/kymaintegrationsampledata/commonweb/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/ext-data/kymaintegrationsampledata/eclipsebin" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/ext-data/kymaintegrationsampledata/jsTarget" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/ext-data/kymaintegrationsampledata/node_modules" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/ext-data/kymaintegrationsampledata/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/ext-data/kymaintegrationsampledata/web/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/ext-data/kymaintegrationsampledata/web/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/ext-data/kymaintegrationsampledata/web/testclasses" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../bin/ext-data/kymaintegrationsampledata/classes" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="file://$MODULE_DIR$/../bin/ext-data/kymaintegrationsampledata/src" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../bin/ext-data/kymaintegrationsampledata/resources" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module" module-name="platform" exported="" />
+    <orderEntry type="module" module-name="commerceservices" exported="" />
+    <orderEntry type="module" module-name="kymaintegrationservices" exported="" />
+  </component>
+</module>

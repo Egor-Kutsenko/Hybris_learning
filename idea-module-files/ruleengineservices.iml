@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module descriptorType="OOTB" importedAsReadOnly="true" type="JAVA_MODULE" version="4">
+  <component name="FacetManager">
+    <facet type="Spring" name="Spring">
+      <configuration process_explicitly_annotated="false">
+        <fileset id="ruleengineservicesspring" name="ruleengineservicesspring" removed="false">
+          <dependency>ordercalculationspring==ordercalculation</dependency>
+          <dependency>basecommercespring==basecommerce</dependency>
+          <dependency>platformspring==platform</dependency>
+          <dependency>ruleenginespring==ruleengine</dependency>
+          <file>file://$MODULE_DIR$/../bin/ext-commerce/ruleengineservices/resources/ruleengineservices-spring-compiler.xml</file>
+          <file>file://$MODULE_DIR$/../bin/ext-commerce/ruleengineservices/resources/ruleengineservices-spring-rule.xml</file>
+          <file>file://$MODULE_DIR$/../bin/ext-commerce/ruleengineservices/project.properties</file>
+          <file>file://$MODULE_DIR$/../bin/ext-commerce/ruleengineservices/resources/ruleengineservices-spring.xml</file>
+          <file>file://$MODULE_DIR$/../bin/ext-commerce/ruleengineservices/resources/ruleengineservices-spring-definitions.xml</file>
+        </fileset>
+      </configuration>
+    </facet>
+  </component>
+  <component name="NewModuleRootManager">
+    <output url="file://$MODULE_DIR$/../bin/ext-commerce/ruleengineservices/eclipsebin" />
+    <output-test url="file://$MODULE_DIR$/../bin/ext-commerce/ruleengineservices/eclipsebin" />
+    <exclude-output />
+    <javadoc-paths>
+      <root url="https://download.hybris.com/api/1811/commercesuite" />
+    </javadoc-paths>
+    <content url="file://$MODULE_DIR$/../bin/ext-commerce/ruleengineservices">
+      <sourceFolder url="file://$MODULE_DIR$/../bin/ext-commerce/ruleengineservices/resources" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/ext-commerce/ruleengineservices/commonweb/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/ext-commerce/ruleengineservices/commonweb/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/ext-commerce/ruleengineservices/commonweb/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/ext-commerce/ruleengineservices/commonweb/groovytestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/ext-commerce/ruleengineservices/acceleratoraddon/web/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/ext-commerce/ruleengineservices/acceleratoraddon/web/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/ext-commerce/ruleengineservices/acceleratoraddon/web/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/ext-commerce/ruleengineservices/acceleratoraddon/web/groovytestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/ext-commerce/ruleengineservices/backoffice/resources" type="java-resource" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/ext-commerce/ruleengineservices/.externalToolBuilders" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/ext-commerce/ruleengineservices/.settings" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/ext-commerce/ruleengineservices/acceleratoraddon/web/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/ext-commerce/ruleengineservices/acceleratoraddon/web/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/ext-commerce/ruleengineservices/acceleratoraddon/web/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/ext-commerce/ruleengineservices/backoffice/classes" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/ext-commerce/ruleengineservices/bower_components" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/ext-commerce/ruleengineservices/classes" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/ext-commerce/ruleengineservices/commonweb/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/ext-commerce/ruleengineservices/commonweb/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/ext-commerce/ruleengineservices/commonweb/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/ext-commerce/ruleengineservices/eclipsebin" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/ext-commerce/ruleengineservices/jsTarget" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/ext-commerce/ruleengineservices/node_modules" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/ext-commerce/ruleengineservices/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/ext-commerce/ruleengineservices/web/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/ext-commerce/ruleengineservices/web/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/ext-commerce/ruleengineservices/web/testclasses" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../bin/ext-commerce/ruleengineservices/resources" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/../bin/ext-commerce/ruleengineservices/bin/ruleengineservicesserver.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../bin/ext-commerce/ruleengineservices/lib" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+        <jarDirectory url="file://$MODULE_DIR$/../bin/ext-commerce/ruleengineservices/lib" recursive="true" />
+      </library>
+    </orderEntry>
+    <orderEntry type="module" module-name="ordercalculation" exported="" />
+    <orderEntry type="module" module-name="basecommerce" exported="" />
+    <orderEntry type="module" module-name="platform" exported="" />
+    <orderEntry type="module" module-name="ruleengine" exported="" />
+  </component>
+</module>

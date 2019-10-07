@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module descriptorType="OOTB" importedAsReadOnly="true" type="JAVA_MODULE" version="4">
+  <component name="FacetManager">
+    <facet type="Spring" name="Spring">
+      <configuration process_explicitly_annotated="false">
+        <fileset id="personalizationcmswebspring" name="personalizationcmswebspring" removed="false">
+          <dependency>cms2spring==cms2</dependency>
+          <dependency>cms2libspring==cms2lib</dependency>
+          <dependency>platformspring==platform</dependency>
+          <dependency>personalizationcmsspring==personalizationcms</dependency>
+          <dependency>personalizationwebservicesspring==personalizationwebservices</dependency>
+          <file>file://$MODULE_DIR$/../bin/ext-webservices/personalizationcmsweb/project.properties</file>
+          <file>file://$MODULE_DIR$/../bin/ext-webservices/personalizationcmsweb/resources/personalizationcmsweb-spring.xml</file>
+        </fileset>
+      </configuration>
+    </facet>
+  </component>
+  <component name="NewModuleRootManager">
+    <output url="file://$MODULE_DIR$/../bin/ext-webservices/personalizationcmsweb/eclipsebin" />
+    <output-test url="file://$MODULE_DIR$/../bin/ext-webservices/personalizationcmsweb/eclipsebin" />
+    <exclude-output />
+    <javadoc-paths>
+      <root url="https://download.hybris.com/api/1811/commercesuite" />
+    </javadoc-paths>
+    <content url="file://$MODULE_DIR$/../bin/ext-webservices/personalizationcmsweb">
+      <sourceFolder url="file://$MODULE_DIR$/../bin/ext-webservices/personalizationcmsweb/resources" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/ext-webservices/personalizationcmsweb/commonweb/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/ext-webservices/personalizationcmsweb/commonweb/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/ext-webservices/personalizationcmsweb/commonweb/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/ext-webservices/personalizationcmsweb/commonweb/groovytestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/ext-webservices/personalizationcmsweb/acceleratoraddon/web/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/ext-webservices/personalizationcmsweb/acceleratoraddon/web/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/ext-webservices/personalizationcmsweb/acceleratoraddon/web/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/ext-webservices/personalizationcmsweb/acceleratoraddon/web/groovytestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/ext-webservices/personalizationcmsweb/backoffice/resources" type="java-resource" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/ext-webservices/personalizationcmsweb/.externalToolBuilders" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/ext-webservices/personalizationcmsweb/.settings" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/ext-webservices/personalizationcmsweb/acceleratoraddon/web/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/ext-webservices/personalizationcmsweb/acceleratoraddon/web/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/ext-webservices/personalizationcmsweb/acceleratoraddon/web/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/ext-webservices/personalizationcmsweb/backoffice/classes" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/ext-webservices/personalizationcmsweb/bower_components" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/ext-webservices/personalizationcmsweb/classes" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/ext-webservices/personalizationcmsweb/commonweb/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/ext-webservices/personalizationcmsweb/commonweb/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/ext-webservices/personalizationcmsweb/commonweb/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/ext-webservices/personalizationcmsweb/eclipsebin" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/ext-webservices/personalizationcmsweb/jsTarget" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/ext-webservices/personalizationcmsweb/node_modules" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/ext-webservices/personalizationcmsweb/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/ext-webservices/personalizationcmsweb/web/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/ext-webservices/personalizationcmsweb/web/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/ext-webservices/personalizationcmsweb/web/testclasses" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../bin/ext-webservices/personalizationcmsweb/resources" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/../bin/ext-webservices/personalizationcmsweb/bin/personalizationcmswebserver.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module" module-name="cms2" exported="" />
+    <orderEntry type="module" module-name="cms2lib" exported="" />
+    <orderEntry type="module" module-name="platform" exported="" />
+    <orderEntry type="module" module-name="personalizationcms" exported="" />
+    <orderEntry type="module" module-name="personalizationwebservices" exported="" />
+  </component>
+</module>

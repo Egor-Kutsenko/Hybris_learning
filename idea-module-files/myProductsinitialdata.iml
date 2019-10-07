@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module descriptorType="CUSTOM" importedAsReadOnly="false" type="JAVA_MODULE" version="4">
+  <component name="FacetManager">
+    <facet type="Spring" name="Spring">
+      <configuration process_explicitly_annotated="false">
+        <fileset id="myProductsinitialdataspring" name="myProductsinitialdataspring" removed="false">
+          <dependency>myProductscorespring==myProductscore</dependency>
+          <file>file://$MODULE_DIR$/../bin/custom/myProducts/myProductsinitialdata/project.properties</file>
+          <file>file://$MODULE_DIR$/../bin/custom/myProducts/myProductsinitialdata/resources/myProductsinitialdata-spring.xml</file>
+        </fileset>
+      </configuration>
+    </facet>
+  </component>
+  <component name="NewModuleRootManager">
+    <output url="file://$MODULE_DIR$/../bin/custom/myProducts/myProductsinitialdata/eclipsebin" />
+    <output-test url="file://$MODULE_DIR$/../bin/custom/myProducts/myProductsinitialdata/eclipsebin" />
+    <exclude-output />
+    <javadoc-paths>
+      <root url="https://download.hybris.com/api/1811/commercesuite" />
+    </javadoc-paths>
+    <content url="file://$MODULE_DIR$/../bin/custom/myProducts/myProductsinitialdata">
+      <sourceFolder url="file://$MODULE_DIR$/../bin/custom/myProducts/myProductsinitialdata/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/custom/myProducts/myProductsinitialdata/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/custom/myProducts/myProductsinitialdata/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/custom/myProducts/myProductsinitialdata/groovytestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/custom/myProducts/myProductsinitialdata/resources" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/custom/myProducts/myProductsinitialdata/web/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/custom/myProducts/myProductsinitialdata/web/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/custom/myProducts/myProductsinitialdata/web/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/custom/myProducts/myProductsinitialdata/web/groovytestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/custom/myProducts/myProductsinitialdata/commonweb/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/custom/myProducts/myProductsinitialdata/commonweb/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/custom/myProducts/myProductsinitialdata/commonweb/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/custom/myProducts/myProductsinitialdata/commonweb/groovytestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/custom/myProducts/myProductsinitialdata/acceleratoraddon/web/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/custom/myProducts/myProductsinitialdata/acceleratoraddon/web/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/custom/myProducts/myProductsinitialdata/acceleratoraddon/web/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/custom/myProducts/myProductsinitialdata/acceleratoraddon/web/groovytestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/custom/myProducts/myProductsinitialdata/backoffice/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/custom/myProducts/myProductsinitialdata/backoffice/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/custom/myProducts/myProductsinitialdata/backoffice/groovytestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/custom/myProducts/myProductsinitialdata/backoffice/resources" type="java-resource" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/custom/myProducts/myProductsinitialdata/.externalToolBuilders" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/custom/myProducts/myProductsinitialdata/.settings" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/custom/myProducts/myProductsinitialdata/acceleratoraddon/web/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/custom/myProducts/myProductsinitialdata/acceleratoraddon/web/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/custom/myProducts/myProductsinitialdata/acceleratoraddon/web/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/custom/myProducts/myProductsinitialdata/backoffice/classes" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/custom/myProducts/myProductsinitialdata/bower_components" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/custom/myProducts/myProductsinitialdata/classes" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/custom/myProducts/myProductsinitialdata/commonweb/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/custom/myProducts/myProductsinitialdata/commonweb/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/custom/myProducts/myProductsinitialdata/commonweb/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/custom/myProducts/myProductsinitialdata/eclipsebin" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/custom/myProducts/myProductsinitialdata/jsTarget" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/custom/myProducts/myProductsinitialdata/node_modules" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/custom/myProducts/myProductsinitialdata/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/custom/myProducts/myProductsinitialdata/web/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/custom/myProducts/myProductsinitialdata/web/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/custom/myProducts/myProductsinitialdata/web/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/custom/myProducts/myProductsinitialdata/web/webroot/WEB-INF/classes" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../bin/custom/myProducts/myProductsinitialdata/lib" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+        <jarDirectory url="file://$MODULE_DIR$/../bin/custom/myProducts/myProductsinitialdata/lib" recursive="true" />
+      </library>
+    </orderEntry>
+    <orderEntry type="module" module-name="myProductscore" exported="" />
+  </component>
+</module>

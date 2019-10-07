@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module descriptorType="OOTB" importedAsReadOnly="true" type="JAVA_MODULE" version="4">
+  <component name="FacetManager">
+    <facet type="Spring" name="Spring">
+      <configuration process_explicitly_annotated="false">
+        <fileset id="pcmbackofficesamplesaddonspring" name="pcmbackofficesamplesaddonspring" removed="false">
+          <dependency>platformspring==platform</dependency>
+          <dependency>pcmbackofficespring==pcmbackoffice</dependency>
+          <dependency>addonsupportspring==addonsupport</dependency>
+          <file>file://$MODULE_DIR$/../bin/ext-addon/pcmbackofficesamplesaddon/project.properties</file>
+          <file>file://$MODULE_DIR$/../bin/ext-addon/pcmbackofficesamplesaddon/resources/pcmbackofficesamplesaddon-spring.xml</file>
+        </fileset>
+      </configuration>
+    </facet>
+  </component>
+  <component name="NewModuleRootManager">
+    <output url="file://$MODULE_DIR$/../bin/ext-addon/pcmbackofficesamplesaddon/eclipsebin" />
+    <output-test url="file://$MODULE_DIR$/../bin/ext-addon/pcmbackofficesamplesaddon/eclipsebin" />
+    <exclude-output />
+    <javadoc-paths>
+      <root url="https://download.hybris.com/api/1811/commercesuite" />
+    </javadoc-paths>
+    <content url="file://$MODULE_DIR$/../bin/ext-addon/pcmbackofficesamplesaddon">
+      <sourceFolder url="file://$MODULE_DIR$/../bin/ext-addon/pcmbackofficesamplesaddon/resources" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/ext-addon/pcmbackofficesamplesaddon/commonweb/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/ext-addon/pcmbackofficesamplesaddon/commonweb/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/ext-addon/pcmbackofficesamplesaddon/commonweb/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/ext-addon/pcmbackofficesamplesaddon/commonweb/groovytestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/ext-addon/pcmbackofficesamplesaddon/acceleratoraddon/web/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/ext-addon/pcmbackofficesamplesaddon/acceleratoraddon/web/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/ext-addon/pcmbackofficesamplesaddon/acceleratoraddon/web/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/ext-addon/pcmbackofficesamplesaddon/acceleratoraddon/web/groovytestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/ext-addon/pcmbackofficesamplesaddon/backoffice/resources" type="java-resource" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/ext-addon/pcmbackofficesamplesaddon/.externalToolBuilders" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/ext-addon/pcmbackofficesamplesaddon/.settings" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/ext-addon/pcmbackofficesamplesaddon/acceleratoraddon/web/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/ext-addon/pcmbackofficesamplesaddon/acceleratoraddon/web/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/ext-addon/pcmbackofficesamplesaddon/acceleratoraddon/web/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/ext-addon/pcmbackofficesamplesaddon/backoffice/classes" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/ext-addon/pcmbackofficesamplesaddon/bower_components" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/ext-addon/pcmbackofficesamplesaddon/classes" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/ext-addon/pcmbackofficesamplesaddon/commonweb/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/ext-addon/pcmbackofficesamplesaddon/commonweb/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/ext-addon/pcmbackofficesamplesaddon/commonweb/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/ext-addon/pcmbackofficesamplesaddon/eclipsebin" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/ext-addon/pcmbackofficesamplesaddon/jsTarget" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/ext-addon/pcmbackofficesamplesaddon/node_modules" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/ext-addon/pcmbackofficesamplesaddon/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/ext-addon/pcmbackofficesamplesaddon/web/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/ext-addon/pcmbackofficesamplesaddon/web/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/ext-addon/pcmbackofficesamplesaddon/web/testclasses" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../bin/ext-addon/pcmbackofficesamplesaddon/classes" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="file://$MODULE_DIR$/../bin/ext-addon/pcmbackofficesamplesaddon/src" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../bin/ext-addon/pcmbackofficesamplesaddon/resources" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../bin/ext-addon/pcmbackofficesamplesaddon/lib" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+        <jarDirectory url="file://$MODULE_DIR$/../bin/ext-addon/pcmbackofficesamplesaddon/lib" recursive="true" />
+      </library>
+    </orderEntry>
+    <orderEntry type="module" module-name="platform" exported="" />
+    <orderEntry type="module" module-name="pcmbackoffice" exported="" />
+    <orderEntry type="module" module-name="addonsupport" exported="" />
+  </component>
+</module>

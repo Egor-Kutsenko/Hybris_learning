@@ -1,0 +1,21 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="Unit Tests" type="HybrisTests" factoryName="Hybris Tests" singleton="true">
+    <module name="all_local_extensions" />
+    <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+    <option name="ALTERNATIVE_JRE_PATH" />
+    <option name="PACKAGE_NAME" value="" />
+    <option name="MAIN_CLASS_NAME" />
+    <option name="METHOD_NAME" />
+    <option name="TEST_OBJECT" value="package" />
+    <option name="VM_PARAMETERS" />
+    <option name="PARAMETERS" />
+    <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+    <option name="PASS_PARENT_ENVS" value="true" />
+    <option name="TEST_SEARCH_SCOPE">
+      <value defaultName="moduleWithDependencies" />
+    </option>
+    <patterns />
+    <hybris annotationFilter="UNIT_TESTS" scopeFilter="ALL_CUSTOM_MODULES" />
+    <method />
+  </configuration>
+</component>

@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module descriptorType="OOTB" importedAsReadOnly="true" type="JAVA_MODULE" version="4">
+  <component name="FacetManager">
+    <facet type="Spring" name="Spring">
+      <configuration process_explicitly_annotated="false">
+        <fileset id="ycommercewebservicestestspring" name="ycommercewebservicestestspring" removed="false">
+          <dependency>platformspring==platform</dependency>
+          <dependency>cms2spring==cms2</dependency>
+          <dependency>ycommercewebservicesspring==ycommercewebservices</dependency>
+          <file>file://$MODULE_DIR$/../bin/ext-template/ycommercewebservicestest/project.properties</file>
+          <file>file://$MODULE_DIR$/../bin/ext-template/ycommercewebservicestest/resources/ycommercewebservicestest-spring.xml</file>
+        </fileset>
+      </configuration>
+    </facet>
+  </component>
+  <component name="NewModuleRootManager">
+    <output url="file://$MODULE_DIR$/../bin/ext-template/ycommercewebservicestest/eclipsebin" />
+    <output-test url="file://$MODULE_DIR$/../bin/ext-template/ycommercewebservicestest/eclipsebin" />
+    <exclude-output />
+    <javadoc-paths>
+      <root url="https://download.hybris.com/api/1811/commercesuite" />
+    </javadoc-paths>
+    <content url="file://$MODULE_DIR$/../bin/ext-template/ycommercewebservicestest">
+      <sourceFolder url="file://$MODULE_DIR$/../bin/ext-template/ycommercewebservicestest/resources" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/ext-template/ycommercewebservicestest/commonweb/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/ext-template/ycommercewebservicestest/commonweb/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/ext-template/ycommercewebservicestest/commonweb/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/ext-template/ycommercewebservicestest/commonweb/groovytestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/ext-template/ycommercewebservicestest/acceleratoraddon/web/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/ext-template/ycommercewebservicestest/acceleratoraddon/web/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/ext-template/ycommercewebservicestest/acceleratoraddon/web/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/ext-template/ycommercewebservicestest/acceleratoraddon/web/groovytestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/ext-template/ycommercewebservicestest/backoffice/resources" type="java-resource" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/ext-template/ycommercewebservicestest/.externalToolBuilders" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/ext-template/ycommercewebservicestest/.settings" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/ext-template/ycommercewebservicestest/acceleratoraddon/web/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/ext-template/ycommercewebservicestest/acceleratoraddon/web/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/ext-template/ycommercewebservicestest/acceleratoraddon/web/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/ext-template/ycommercewebservicestest/backoffice/classes" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/ext-template/ycommercewebservicestest/bower_components" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/ext-template/ycommercewebservicestest/classes" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/ext-template/ycommercewebservicestest/commonweb/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/ext-template/ycommercewebservicestest/commonweb/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/ext-template/ycommercewebservicestest/commonweb/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/ext-template/ycommercewebservicestest/eclipsebin" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/ext-template/ycommercewebservicestest/jsTarget" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/ext-template/ycommercewebservicestest/node_modules" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/ext-template/ycommercewebservicestest/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/ext-template/ycommercewebservicestest/web/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/ext-template/ycommercewebservicestest/web/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/ext-template/ycommercewebservicestest/web/testclasses" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../bin/ext-template/ycommercewebservicestest/classes" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="file://$MODULE_DIR$/../bin/ext-template/ycommercewebservicestest/src" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../bin/ext-template/ycommercewebservicestest/resources" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../bin/ext-template/ycommercewebservicestest/lib" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+        <jarDirectory url="file://$MODULE_DIR$/../bin/ext-template/ycommercewebservicestest/lib" recursive="true" />
+      </library>
+    </orderEntry>
+    <orderEntry type="module" module-name="platform" exported="" />
+    <orderEntry type="module" module-name="cms2" exported="" />
+    <orderEntry type="module" module-name="ycommercewebservices" exported="" />
+  </component>
+</module>

@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module descriptorType="CUSTOM" importedAsReadOnly="false" type="JAVA_MODULE" version="4">
+  <component name="FacetManager">
+    <facet type="Spring" name="Spring">
+      <configuration process_explicitly_annotated="false">
+        <fileset id="myProductscorespring" name="myProductscorespring" removed="false">
+          <dependency>solrserverspring==solrserver</dependency>
+          <dependency>acceleratorcmsspring==acceleratorcms</dependency>
+          <file>file://$MODULE_DIR$/../bin/custom/myProducts/myProductscore/resources/myProductscore/processes/quote/quote-buyer-process-spring.xml</file>
+          <file>file://$MODULE_DIR$/../bin/custom/myProducts/myProductscore/resources/myProductscore/processes/quote/quote-post-cancellation-process-spring.xml</file>
+          <file>file://$MODULE_DIR$/../bin/custom/myProducts/myProductscore/project.properties</file>
+          <file>file://$MODULE_DIR$/../bin/custom/myProducts/myProductscore/resources/myProductscore/processes/quote/quote-to-expire-soon-email-process-spring.xml</file>
+          <file>file://$MODULE_DIR$/../bin/custom/myProducts/myProductscore/resources/myProductscore-spring.xml</file>
+          <file>file://$MODULE_DIR$/../bin/custom/myProducts/myProductscore/resources/myProductscore/integration/hot-folder-store-apparel-spring.xml</file>
+          <file>file://$MODULE_DIR$/../bin/custom/myProducts/myProductscore/resources/myProductscore/integration/hot-folder-common-spring.xml</file>
+          <file>file://$MODULE_DIR$/../bin/custom/myProducts/myProductscore/resources/myProductscore/integration/hot-folder-store-electronics-spring.xml</file>
+          <file>file://$MODULE_DIR$/../bin/custom/myProducts/myProductscore/resources/myProductscore/processes/quote/quote-salesrep-process-spring.xml</file>
+          <file>file://$MODULE_DIR$/../bin/custom/myProducts/myProductscore/resources/myProductscore/processes/quote/quote-seller-approval-process-spring.xml</file>
+          <file>file://$MODULE_DIR$/../bin/custom/myProducts/myProductscore/resources/myProductscore/processes/quote/quote-expired-email-process-spring.xml</file>
+        </fileset>
+      </configuration>
+    </facet>
+  </component>
+  <component name="NewModuleRootManager">
+    <output url="file://$MODULE_DIR$/../bin/custom/myProducts/myProductscore/eclipsebin" />
+    <output-test url="file://$MODULE_DIR$/../bin/custom/myProducts/myProductscore/eclipsebin" />
+    <exclude-output />
+    <javadoc-paths>
+      <root url="https://download.hybris.com/api/1811/commercesuite" />
+    </javadoc-paths>
+    <content url="file://$MODULE_DIR$/../bin/custom/myProducts/myProductscore">
+      <sourceFolder url="file://$MODULE_DIR$/../bin/custom/myProducts/myProductscore/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/custom/myProducts/myProductscore/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/custom/myProducts/myProductscore/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/custom/myProducts/myProductscore/groovytestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/custom/myProducts/myProductscore/resources" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/custom/myProducts/myProductscore/web/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/custom/myProducts/myProductscore/web/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/custom/myProducts/myProductscore/web/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/custom/myProducts/myProductscore/web/groovytestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/custom/myProducts/myProductscore/commonweb/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/custom/myProducts/myProductscore/commonweb/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/custom/myProducts/myProductscore/commonweb/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/custom/myProducts/myProductscore/commonweb/groovytestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/custom/myProducts/myProductscore/acceleratoraddon/web/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/custom/myProducts/myProductscore/acceleratoraddon/web/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/custom/myProducts/myProductscore/acceleratoraddon/web/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/custom/myProducts/myProductscore/acceleratoraddon/web/groovytestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/custom/myProducts/myProductscore/backoffice/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/custom/myProducts/myProductscore/backoffice/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/custom/myProducts/myProductscore/backoffice/groovytestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/custom/myProducts/myProductscore/backoffice/resources" type="java-resource" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/custom/myProducts/myProductscore/.externalToolBuilders" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/custom/myProducts/myProductscore/.settings" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/custom/myProducts/myProductscore/acceleratoraddon/web/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/custom/myProducts/myProductscore/acceleratoraddon/web/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/custom/myProducts/myProductscore/acceleratoraddon/web/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/custom/myProducts/myProductscore/backoffice/classes" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/custom/myProducts/myProductscore/bower_components" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/custom/myProducts/myProductscore/classes" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/custom/myProducts/myProductscore/commonweb/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/custom/myProducts/myProductscore/commonweb/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/custom/myProducts/myProductscore/commonweb/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/custom/myProducts/myProductscore/eclipsebin" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/custom/myProducts/myProductscore/jsTarget" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/custom/myProducts/myProductscore/node_modules" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/custom/myProducts/myProductscore/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/custom/myProducts/myProductscore/web/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/custom/myProducts/myProductscore/web/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/custom/myProducts/myProductscore/web/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/custom/myProducts/myProductscore/web/webroot/WEB-INF/classes" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../bin/custom/myProducts/myProductscore/lib" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+        <jarDirectory url="file://$MODULE_DIR$/../bin/custom/myProducts/myProductscore/lib" recursive="true" />
+      </library>
+    </orderEntry>
+    <orderEntry type="module" module-name="solrserver" exported="" />
+    <orderEntry type="module" module-name="acceleratorcms" exported="" />
+  </component>
+</module>

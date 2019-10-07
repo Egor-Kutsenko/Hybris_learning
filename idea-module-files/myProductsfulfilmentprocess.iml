@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module descriptorType="CUSTOM" importedAsReadOnly="false" type="JAVA_MODULE" version="4">
+  <component name="FacetManager">
+    <facet type="Spring" name="Spring">
+      <configuration process_explicitly_annotated="false">
+        <fileset id="myProductsfulfilmentprocessspring" name="myProductsfulfilmentprocessspring" removed="false">
+          <dependency>ticketsystemspring==ticketsystem</dependency>
+          <dependency>acceleratorservicesspring==acceleratorservices</dependency>
+          <file>file://$MODULE_DIR$/../bin/custom/myProducts/myProductsfulfilmentprocess/project.properties</file>
+          <file>file://$MODULE_DIR$/../bin/custom/myProducts/myProductsfulfilmentprocess/resources/myProductsfulfilmentprocess/process/order-process-spring.xml</file>
+          <file>file://$MODULE_DIR$/../bin/custom/myProducts/myProductsfulfilmentprocess/resources/myProductsfulfilmentprocess/process/return-process-spring.xml</file>
+          <file>file://$MODULE_DIR$/../bin/custom/myProducts/myProductsfulfilmentprocess/resources/myProductsfulfilmentprocess/process/consignment-process-spring.xml</file>
+          <file>file://$MODULE_DIR$/../bin/custom/myProducts/myProductsfulfilmentprocess/resources/myProductsfulfilmentprocess-spring.xml</file>
+        </fileset>
+      </configuration>
+    </facet>
+  </component>
+  <component name="NewModuleRootManager">
+    <output url="file://$MODULE_DIR$/../bin/custom/myProducts/myProductsfulfilmentprocess/eclipsebin" />
+    <output-test url="file://$MODULE_DIR$/../bin/custom/myProducts/myProductsfulfilmentprocess/eclipsebin" />
+    <exclude-output />
+    <javadoc-paths>
+      <root url="https://download.hybris.com/api/1811/commercesuite" />
+    </javadoc-paths>
+    <content url="file://$MODULE_DIR$/../bin/custom/myProducts/myProductsfulfilmentprocess">
+      <sourceFolder url="file://$MODULE_DIR$/../bin/custom/myProducts/myProductsfulfilmentprocess/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/custom/myProducts/myProductsfulfilmentprocess/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/custom/myProducts/myProductsfulfilmentprocess/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/custom/myProducts/myProductsfulfilmentprocess/groovytestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/custom/myProducts/myProductsfulfilmentprocess/resources" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/custom/myProducts/myProductsfulfilmentprocess/web/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/custom/myProducts/myProductsfulfilmentprocess/web/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/custom/myProducts/myProductsfulfilmentprocess/web/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/custom/myProducts/myProductsfulfilmentprocess/web/groovytestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/custom/myProducts/myProductsfulfilmentprocess/commonweb/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/custom/myProducts/myProductsfulfilmentprocess/commonweb/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/custom/myProducts/myProductsfulfilmentprocess/commonweb/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/custom/myProducts/myProductsfulfilmentprocess/commonweb/groovytestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/custom/myProducts/myProductsfulfilmentprocess/acceleratoraddon/web/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/custom/myProducts/myProductsfulfilmentprocess/acceleratoraddon/web/gensrc" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/custom/myProducts/myProductsfulfilmentprocess/acceleratoraddon/web/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/custom/myProducts/myProductsfulfilmentprocess/acceleratoraddon/web/groovytestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/custom/myProducts/myProductsfulfilmentprocess/backoffice/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/custom/myProducts/myProductsfulfilmentprocess/backoffice/testsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/custom/myProducts/myProductsfulfilmentprocess/backoffice/groovytestsrc" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../bin/custom/myProducts/myProductsfulfilmentprocess/backoffice/resources" type="java-resource" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/custom/myProducts/myProductsfulfilmentprocess/.externalToolBuilders" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/custom/myProducts/myProductsfulfilmentprocess/.settings" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/custom/myProducts/myProductsfulfilmentprocess/acceleratoraddon/web/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/custom/myProducts/myProductsfulfilmentprocess/acceleratoraddon/web/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/custom/myProducts/myProductsfulfilmentprocess/acceleratoraddon/web/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/custom/myProducts/myProductsfulfilmentprocess/backoffice/classes" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/custom/myProducts/myProductsfulfilmentprocess/bower_components" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/custom/myProducts/myProductsfulfilmentprocess/classes" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/custom/myProducts/myProductsfulfilmentprocess/commonweb/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/custom/myProducts/myProductsfulfilmentprocess/commonweb/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/custom/myProducts/myProductsfulfilmentprocess/commonweb/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/custom/myProducts/myProductsfulfilmentprocess/eclipsebin" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/custom/myProducts/myProductsfulfilmentprocess/jsTarget" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/custom/myProducts/myProductsfulfilmentprocess/node_modules" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/custom/myProducts/myProductsfulfilmentprocess/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/custom/myProducts/myProductsfulfilmentprocess/web/addonsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/custom/myProducts/myProductsfulfilmentprocess/web/commonwebsrc" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/custom/myProducts/myProductsfulfilmentprocess/web/testclasses" />
+      <excludeFolder url="file://$MODULE_DIR$/../bin/custom/myProducts/myProductsfulfilmentprocess/web/webroot/WEB-INF/classes" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../bin/custom/myProducts/myProductsfulfilmentprocess/lib" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+        <jarDirectory url="file://$MODULE_DIR$/../bin/custom/myProducts/myProductsfulfilmentprocess/lib" recursive="true" />
+      </library>
+    </orderEntry>
+    <orderEntry type="module" module-name="ticketsystem" exported="" />
+    <orderEntry type="module" module-name="acceleratorservices" exported="" />
+  </component>
+</module>

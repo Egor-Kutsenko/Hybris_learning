@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="acceleratorwebservicesaddon" />
+    <orderEntry type="module" module-name="adaptivesearchbackoffice" />
+    <orderEntry type="module" module-name="adaptivesearchsamplesaddon" />
+    <orderEntry type="module" module-name="adaptivesearchsolr" />
+    <orderEntry type="module" module-name="adaptivesearchwebservices" />
+    <orderEntry type="module" module-name="cmsbackoffice" />
+    <orderEntry type="module" module-name="cmsoccaddon" />
+    <orderEntry type="module" module-name="cmssmartedit" />
+    <orderEntry type="module" module-name="cmssmarteditwebservices" />
+    <orderEntry type="module" module-name="cmswebservices" />
+    <orderEntry type="module" module-name="commerceorgsamplesaddon" />
+    <orderEntry type="module" module-name="commerceservicesbackoffice" />
+    <orderEntry type="module" module-name="couponbackoffice" />
+    <orderEntry type="module" module-name="customersupportbackoffice" />
+    <orderEntry type="module" module-name="customerticketingaddon" />
+    <orderEntry type="module" module-name="droolsruleengineservices" />
+    <orderEntry type="module" module-name="electronicsstore" />
+    <orderEntry type="module" module-name="kymaintegrationbackoffice" />
+    <orderEntry type="module" module-name="kymaintegrationsampledata" />
+    <orderEntry type="module" module-name="multicountrysampledataaddon" />
+    <orderEntry type="module" module-name="myProductsbackoffice" />
+    <orderEntry type="module" module-name="myProductsfulfilmentprocess" />
+    <orderEntry type="module" module-name="myProductsinitialdata" />
+    <orderEntry type="module" module-name="myProductsstorefront" />
+    <orderEntry type="module" module-name="odata2webservices" />
+    <orderEntry type="module" module-name="odata2webservicesfeaturetests" />
+    <orderEntry type="module" module-name="orderselfserviceaddon" />
+    <orderEntry type="module" module-name="outboundservices" />
+    <orderEntry type="module" module-name="pcmbackofficesamplesaddon" />
+    <orderEntry type="module" module-name="permissionswebservices" />
+    <orderEntry type="module" module-name="personalizationcmsbackoffice" />
+    <orderEntry type="module" module-name="personalizationcmsweb" />
+    <orderEntry type="module" module-name="personalizationpromotions" />
+    <orderEntry type="module" module-name="personalizationpromotionsbackoffice" />
+    <orderEntry type="module" module-name="personalizationpromotionssampledataaddon" />
+    <orderEntry type="module" module-name="personalizationpromotionssmartedit" />
+    <orderEntry type="module" module-name="personalizationpromotionsweb" />
+    <orderEntry type="module" module-name="personalizationsampledataaddon" />
+    <orderEntry type="module" module-name="personalizationsearchbackoffice" />
+    <orderEntry type="module" module-name="personalizationsearchsamplesaddon" />
+    <orderEntry type="module" module-name="personalizationsearchsmartedit" />
+    <orderEntry type="module" module-name="personalizationsearchweb" />
+    <orderEntry type="module" module-name="personalizationservicesbackoffice" />
+    <orderEntry type="module" module-name="personalizationsmartedit" />
+    <orderEntry type="module" module-name="previewpersonalizationweb" />
+    <orderEntry type="module" module-name="promotionenginesamplesaddon" />
+    <orderEntry type="module" module-name="rulebuilderbackoffice" />
+    <orderEntry type="module" module-name="smarteditaddon" />
+    <orderEntry type="module" module-name="smarteditwebservices" />
+    <orderEntry type="module" module-name="solrfacetsearchbackoffice" />
+    <orderEntry type="module" module-name="solrserver" />
+    <orderEntry type="module" module-name="textfieldconfiguratortemplateaddon" />
+    <orderEntry type="module" module-name="textfieldconfiguratortemplatebackoffice" />
+    <orderEntry type="module" module-name="ycommercewebservices" />
+    <orderEntry type="module" module-name="ycommercewebservicestest" />
+  </component>
+</module>
